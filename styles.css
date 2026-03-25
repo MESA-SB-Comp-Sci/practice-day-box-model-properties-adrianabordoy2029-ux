@@ -3,4 +3,20 @@
 }
 
 /* write rules below */
-
+.padding {
+    padding: 20px;
+}
+.space {
+    margin: 20px;
+}
+.has-border {
+    border: 3px solid black;  
+} 
+.fixed-with {
+    width: 300px;
+}
+.hero-box{
+    height: 200px;
+    padding: 40px;
+    border: 4px solid navy;
+}
